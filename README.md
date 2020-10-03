@@ -1,1 +1,1 @@
-# hacktoberfest2020
+# hacktoberfest-2020
